@@ -19,8 +19,10 @@ partindo da viabilidade econômica do projeto: VGV, permuta, cronograma de receb
 
 ## O que mudou na v4
 
-- **Crédito de obra por composição do custo:** folha sem crédito, materiais à alíquota padrão e serviços de construção
-  com a redução de 50% do art. 261, ponderando fornecedores do Simples.
+- **Crédito de obra por composição do custo:** materiais à alíquota padrão e serviços de construção e mão de obra
+  terceirizados com a redução de 50% do art. 261, ponderando fornecedores do Simples. Folha própria de obra, se houver, não gera crédito.
+- **Cenários no mesmo modo de cálculo:** as colunas Otimista, Base e Pessimista seguem o modo selecionado
+  (plena ou transição), e a coluna Ativo sempre bate com o cenário escolhido.
 - **Crédito de despesas por categoria:** alíquota do fornecedor × parcela da base com crédito.
 - **Tributo embutido nos valores:** débito e créditos calculados por fora, `a ÷ (1 + a)`.
 - **Transição completa e como modo padrão:** 2026 com PIS/Cofins e ano-teste dispensado, CBS a partir de 2027 e IBS gradual até 2033.
@@ -33,10 +35,10 @@ partindo da viabilidade econômica do projeto: VGV, permuta, cronograma de receb
 | | v3 | v4 (alíquota plena) |
 |---|---|---|
 | Débito IBS + CBS | R$ 27,7 mi | R$ 24,4 mi |
-| Créditos (obra + despesas) | R$ 22,7 mi | R$ 10,4 mi |
-| Imposto líquido | R$ 5,0 mi | R$ 14,0 mi |
+| Créditos (obra + despesas) | R$ 22,7 mi | R$ 13,3 mi |
+| Imposto líquido | R$ 5,0 mi | R$ 11,1 mi |
 
-No modo transição, o mesmo projeto recolhe R$ 15,6 mi no regime regular contra R$ 9,9 mi no RET.
+No modo transição, o mesmo projeto recolhe R$ 14,8 mi no regime regular contra R$ 9,9 mi no RET.
 
 > Uso consultivo. Os dados são fictícios e as premissas (composição do custo, parcela com crédito, alíquota de referência)
 > são ilustrativas. Não substitui apuração fiscal nem parecer.
