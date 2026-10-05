@@ -23,6 +23,28 @@ Ele responde às duas perguntas que uma incorporadora faz hoje:
   que é um tributo novo para a incorporadora.
 - O fator que mais muda o resultado é a **participação de fornecedores do Simples Nacional** na cadeia da obra.
 
+## Telas do simulador
+
+**Resumo Executivo:** painel do cenário ativo, comparação de cenários e check de integridade.
+
+![Resumo Executivo](docs/01_resumo.png)
+
+**Comparativo RET:** regime regular × RET de transição, ano a ano e em valor presente.
+
+![Comparativo RET](docs/02_comparativo_ret.png)
+
+**Transição Tributária:** alíquotas de CBS e IBS de 2026 a 2033 e fator de crédito por ano.
+
+![Transição Tributária](docs/03_transicao.png)
+
+**Premissas:** composição do custo de obra, créditos por categoria de despesa, LC 224 e RET.
+
+![Premissas](docs/04_premissas.png)
+
+**DRE do empreendimento:** resultado por cenário, com créditos, IRPJ/CSLL trimestral e check de fechamento.
+
+![DRE do empreendimento](docs/05_dre.png)
+
 ## Como usar
 
 1. Abra `simulador_reforma_tributaria_imoveis_v4.xlsx` no Excel. As fórmulas são recalculadas ao abrir.
