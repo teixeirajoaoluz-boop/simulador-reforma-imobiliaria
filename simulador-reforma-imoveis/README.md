@@ -40,5 +40,7 @@ partindo da viabilidade econômica do projeto: VGV, permuta, cronograma de receb
 
 No modo transição, o mesmo projeto recolhe R$ 14,8 mi no regime regular contra R$ 9,9 mi no RET.
 
+As conclusões completas (RET × regime regular e CBS × PIS/Cofins) estão em [CONCLUSOES.md](CONCLUSOES.md).
+
 > Uso consultivo. Os dados são fictícios e as premissas (composição do custo, parcela com crédito, alíquota de referência)
 > são ilustrativas. Não substitui apuração fiscal nem parecer.
